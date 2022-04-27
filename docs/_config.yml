@@ -29,7 +29,7 @@ twitter_username: Steady_Social
 github_username: steady-social
 
 # Build settings
-theme: jekyll-theme-modernist
+remote_theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
