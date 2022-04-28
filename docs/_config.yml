@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Steady.Social Blog
+title: Steady.Social
 email: contact@steady.social
 description: >- # this means to ignore newlines until "baseurl:"
   A blog with updates, information, and insights related to Steady.Social.
@@ -36,8 +36,8 @@ search: true
 search_full_content: true
 search_provider: lunr
 twitter:
-  username: +++
-og_image: +++
+  username: Steady_Social
+og_image: "/assets/images/og-logo.png"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -45,34 +45,22 @@ plugins:
 twitter:
   username         :
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Steady.Social"
+  avatar           : "/assets/images/just-logo-white.svg"
+  bio              : "The blog and informational site for the 'slow social' website."
+  #location         :
+  email            : contact@steady.social
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "Go to Steady.Social"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
+      url: "https://steady.social"
+    - label: "Feedback on Github"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/Steady-Social/feedback/issues"
 
 include:
   - .htaccess
-  - _pages
+  - "_pages"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -195,8 +183,17 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
