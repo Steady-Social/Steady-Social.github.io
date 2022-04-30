@@ -6,5 +6,7 @@ main:
     url: /core-values/
   - title: "New User's Guide"
     url: /new-users/
+  - title: "Feature Roadmap"
+    url: /roadmap/
   - title: "Blog Posts"
     url: /posts/
