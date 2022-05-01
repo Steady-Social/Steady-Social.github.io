@@ -43,6 +43,10 @@ Do you have a new idea?  Or do you wish that something would be prioritized high
 
 **Invite by username.** At first I felt that friends would know each other's email addresses, and I have since realized that's not necessarily true.  I could use something more sharable, like a username that people could use to share invite info more easily.  Though perhaps with invite codes this will matter less.
 
+**Friend Contact Reminders.** This feature will allow you to set reminders for how often you want to contact certain friends or groups of friends.  The site will remind you to reach out to them as that time period approaches, and give you the opportunity to mark that you've contacted them - or it will reset the reminder counter automatically if you use the "reply" feature above or contact them through one of the other contact links on the site.  With this feature, Steady.Social becomes essentailly a "friendship management tool" so that you don't suddenly remember that it's been too long since you've contacted a friend!
+
+**Circles and Restricted Posting.** If you have a post that you would prefer only a specific subset of your friends to see, you'll be able to restrict your posts to those friends, and create "circles" of friends as a quick way of selecting those privileged groups when making a post.  
+
 [core-values]: /core-values/
 [feedback]: https://github.com/Steady-Social/feedback
 [posts]: /posts/

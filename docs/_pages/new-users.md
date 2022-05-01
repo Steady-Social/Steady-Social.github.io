@@ -6,8 +6,6 @@ excerpt: Information for new users of Steady.Social.
 permalink: /new-users/
 toc: true
 ---
- 
-# New User's Guide
 
 If you're new to Steady.Social, the interface might feel unintuitive.  This guide is here to help!
 
