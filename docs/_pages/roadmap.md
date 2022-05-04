@@ -39,6 +39,8 @@ Do you have a new idea?  Or do you wish that something would be prioritized high
 
 **Improved new user experience.** Tutorial?  Examples in your activity feed?  I'm not entirely sure yet, but I feel that new users need a way of knowing what to do next when they get to the site.
 
+**Opt-in Daily Email Summaries.** Make it easier to treat the site like a daily newspaper by literally letting people opt into receiving the daily summary of new posts from their friends via email.  Potentially even let them respond via email in order to make a new post, so that if they want to they don't even have to come to the website at all anymore to gain the benefits that it provides.  (which is fine by me, because we're not here to advertise to people or "maximize engagement")
+
 **Donation capabilities.** If the site becomes more popular, I will need a way to continue paying the costs of uptime.  I would like for this to be an honor system of donations, so Patreon seems like a reasonable avenue to explore: though I could look into other options as well, like Stripe.  Either way, I'd love to give people the ability to make reoccurring donations, perhaps in exchange for something like being recognized as a donor in a special credits page.
 
 **Invite by username.** At first I felt that friends would know each other's email addresses, and I have since realized that's not necessarily true.  I could use something more sharable, like a username that people could use to share invite info more easily.  Though perhaps with invite codes this will matter less.
