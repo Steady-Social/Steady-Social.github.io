@@ -15,8 +15,6 @@ Do you have a new idea?  Or do you wish that something would be prioritized high
 
 ## Upcoming Work
 
-**High priority bugs.**  Scrolling and the feed on mobile are fragile, and sometimes stutter and need to be fixed.  We also need to show a user's real name when you are responding to friend invites, as it might not be clear who is requesting the friendship by email alone.
-
 **Fixing and simplifying Invites.**  Replacing the current invite link solution for users who aren't already members of the site works, but is unintuitive (in how it results in the invited user requesting *your* friendship) and it also is against the spirit of the website (in that we want to discourage people from inviting strangers).  I want to replace it with a one time code system, where you generate and can share those codes with friends.  For GDPR reasons, we cannot store who the code was meant to go to, but the fact that it is one time use should remove some of the bad outcomes of having a general purpose invite link.
 
 **Allow limited editing and visibility of your current day's post.**  I don't want editing your post to be an anti-pattern where you can come back multiple times a day and merely edit your post, but I would like to provide a brief window after posting where you can edit it.  I also think that you should be able to see your post after you've made it, which will both help to remind you about what you've already posted today and would be a good spot for initiating editing.  This will probably replace the "Make a post" text box in the activity feed once you've made a post already.
@@ -48,6 +46,10 @@ Do you have a new idea?  Or do you wish that something would be prioritized high
 **Friend Contact Reminders.** This feature will allow you to set reminders for how often you want to contact certain friends or groups of friends.  The site will remind you to reach out to them as that time period approaches, and give you the opportunity to mark that you've contacted them - or it will reset the reminder counter automatically if you use the "reply" feature above or contact them through one of the other contact links on the site.  With this feature, Steady.Social becomes essentailly a "friendship management tool" so that you don't suddenly remember that it's been too long since you've contacted a friend!
 
 **Circles and Restricted Posting.** If you have a post that you would prefer only a specific subset of your friends to see, you'll be able to restrict your posts to those friends, and create "circles" of friends as a quick way of selecting those privileged groups when making a post.  
+
+## Completed Work
+
+<del>**High priority bugs.**  Scrolling and the feed on mobile are fragile, and sometimes stutter and need to be fixed.  We also need to show a user's real name when you are responding to friend invites, as it might not be clear who is requesting the friendship by email alone.</del> - Completed 2022-05-04
 
 [core-values]: /core-values/
 [feedback]: https://github.com/Steady-Social/feedback
